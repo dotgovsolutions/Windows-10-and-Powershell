@@ -9,6 +9,8 @@
 * [Powershell Homepage on GitHub](https://github.com/PowerShell/PowerShell)
 * [Powershell Windows Documentation Site](https://docs.microsoft.com/en-us/powershell/)
 * [Powershell File and Folder Management](https://docs.microsoft.com/en-us/powershell/scripting/samples/working-with-files-and-folders?view=powershell-6)
+* [Powershell Removing Files and Folders](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/remove-item?view=powershell-6)
+* [Powershell Moving Files and Folders](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/move-item?view=powershell-6)
 * [Powershell Process Management](https://docs.microsoft.com/en-us/powershell/scripting/samples/managing-processes-with-process-cmdlets)
 * [Output Redirection with PowerShell](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_redirection?view=powershell-6)
 * [50 Useful Powershell Commands Developers Should Know](https://stackify.com/powershell-commands-every-developer-should-know/)
