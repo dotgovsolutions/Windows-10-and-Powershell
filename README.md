@@ -16,5 +16,7 @@
 * [PowerShell Process Management](https://docs.microsoft.com/en-us/powershell/scripting/samples/managing-processes-with-process-cmdlets)
 * [PowerShell Output Redirection](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_redirection?view=powershell-6)
 * [PowerShell How to Manage Folder and File Permissions](https://blog.netwrix.com/2018/04/18/how-to-manage-file-system-acls-with-powershell-scripts/)
+
+* [PowerShell How to Manage Folders and Files](https://blog.netwrix.com/2018/05/17/powershell-file-management/)
 * [50 Useful PowerShell Commands Developers Should Know](https://stackify.com/powershell-commands-every-developer-should-know/)
 * [PowerShell Information and Commands](https://jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)
