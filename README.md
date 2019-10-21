@@ -1,4 +1,4 @@
-# Windows 10 and Powershell
+# Windows 10 and PowerShell
 
 ## Before Beginning this Module
 - [x] You need a laptop
