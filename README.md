@@ -7,4 +7,4 @@
 ## Readings
 * [How to take screenshots with Windows 10](https://www.howtogeek.com/226280/how-to-take-screenshots-in-windows-10/)
 * [50 Useful Powershell Commands Developers Should Know](https://stackify.com/powershell-commands-every-developer-should-know/)
-* [Powershel Information and Commands]([https://jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)
+* [Powershell Information and Commands](https://jdhitsolutions.com/blog/powershell-tips-tricks-and-advice/)
